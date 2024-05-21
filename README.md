@@ -16,13 +16,13 @@ This Python script generates certificates for members based on data provided in 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/certificate-generator.git
+    git clone https://github.com/Furqan3/Bulk_Cert_gen.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd certificate-generator
+    cd Bulk_Cert_gen
     ```
 
 3. Install the required dependencies:
